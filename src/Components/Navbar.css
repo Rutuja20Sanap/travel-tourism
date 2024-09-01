@@ -1,0 +1,33 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+.navbar
+{
+    background-color:rgb(60, 92, 137);
+    color: #ffffff;
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin: 0px;
+}
+
+.name
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-right: 200px ;
+    display: flex;
+    align-items: center;
+}
+.nav-links
+{
+     font-size: 20px;
+    color: white;
+    margin: 0px 30px;
+   text-decoration: none;
+} 
+ 
