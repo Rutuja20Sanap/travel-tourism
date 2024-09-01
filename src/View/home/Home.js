@@ -18,7 +18,7 @@ function Home() {
         top:"300px",
         left:"400px"
       }}>Welcome to our Travel-Tour..</h1>
-    <img src={img} style={imgSize}></img>
+    <img src={img} style={imgSize} alt=""></img>
     </div>
     </>
   )

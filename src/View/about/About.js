@@ -18,7 +18,7 @@ function About() {
         top:"200px",
         left:"700px"
       }}>About Us</h1>
-    <img src={img} style={imgSize}></img>
+    <img src={img} style={imgSize} alt=""></img>
     <p style={{color:
       "rgb(43, 17, 17)",
       fontSize:"20px",

@@ -4,7 +4,7 @@ function card(props) {
   const { ImgURL, title, description } = props;
   return (
     <div className='cards-container'>
-      <img src={ImgURL} className='tour-img' />
+      <img src={ImgURL} className='tour-img' alt=""/>
       <h1 className='title'>{title}</h1>
       <h2 className='description'>{description}</h2>
     </div>
